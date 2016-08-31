@@ -1,6 +1,6 @@
 # [monster][monster].[util][util].sort()
 
-* [Syntax](#syntax)
+* [Syntax of a Farty Anus](#syntax)
 * [Parameters](#parameters)
 * [Return](#return)
 * [Description](#description)
